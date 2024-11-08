@@ -14,7 +14,7 @@ spec:
         app: sample
     spec:
       containers:
-      - name: your-container-name
+      - name: container1
         image: srujanabudiga/sample:latest
         ports:
         - containerPort: 80
